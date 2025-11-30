@@ -1,0 +1,17 @@
+Input:
+#Task 4: Subjects and marks
+subjects = {
+    'Physics': 88,
+    'Chemistry': 90,
+    'Biology': 82,
+    'Economics': 85,
+    'Urdu': 93
+}
+if 'Math' in subjects:
+    print("Math exists.")
+else:
+    print("Math does not exist.")
+
+Output:
+
+Math does not exist.
