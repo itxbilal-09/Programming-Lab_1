@@ -1,0 +1,15 @@
+Input:
+#Task 9: Laptops and model numbers
+laptops = {
+    'Acer': 'Aspire-5-A515',
+    'Asus': 'VivoBook-15-X512',
+    'MSI': 'Modern-14-B11'
+}
+laptops['Asus'] = "ZenBook-14-UX425"
+print("Updated laptops:")
+print(laptops)
+
+Output:
+
+Updated laptops:
+{'Acer': 'Aspire-5-A515', 'Asus': 'ZenBook-14-UX425', 'MSI': 'Modern-14-B11'}
