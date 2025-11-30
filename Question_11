@@ -1,0 +1,24 @@
+Input:
+#Task 11: English words and meanings
+words = {
+    'Brave': 'Having courage',
+    'Humble': 'Not proud',
+    'Generous': 'Willing to give',
+    'Honest': 'Telling truth',
+    'Patient': 'Able to wait'
+}
+print("Word meanings:")
+print("Brave:", words['Brave'])
+print("Humble:", words['Humble'])
+print("Generous:", words['Generous'])
+print("Honest:", words['Honest'])
+print("Patient:", words['Patient'])
+
+Output:
+
+Word meanings:
+Brave: Having courage
+Humble: Not proud
+Generous: Willing to give
+Honest: Telling truth
+Patient: Able to wait
