@@ -1,0 +1,17 @@
+Input:
+#Task 22: Mobile brands and top models
+mobiles = {
+    "Vivo": "V29 Pro",
+    "Realme": "GT 5 Pro",
+    "Tecno": "Phantom X2",
+    "Infinix": "Zero 30",
+    "Nokia": "G60"
+}
+if "Oppo" in mobiles:
+    print("Oppo exists")
+else:
+    print("Oppo does not exist")
+
+Output:
+
+Oppo does not exist
