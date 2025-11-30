@@ -1,0 +1,17 @@
+Input:
+#Task 18: Languages and countries
+languages = {
+    "Urdu": "Pakistan",
+    "Hindi": "India",
+    "Mandarin": "China",
+    "Portuguese": "Portugal",
+    "Russian": "Russia"
+}
+languages["Urdu"] = "Pakistan and India"
+print("Updated languages:")
+print(languages)
+
+Output:
+
+Updated languages:
+{'Urdu': 'Pakistan and India', 'Hindi': 'India', 'Mandarin': 'China', 'Portuguese': 'Portugal', 'Russian': 'Russia'}
