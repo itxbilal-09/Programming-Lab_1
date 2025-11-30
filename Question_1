@@ -1,0 +1,24 @@
+Input:
+#Task 1: Books and authors
+books = {
+    'Harry Potter': 'J.K. Rowling',
+    'The Hobbit': 'J.R.R. Tolkien',
+    'The Alchemist': 'Paulo Coelho',
+    'Animal Farm': 'George Orwell',
+    'The Catcher in the Rye': 'J.D. Salinger'
+}
+print("Books and authors:")
+print("Harry Potter by", books['Harry Potter'])
+print("The Hobbit by", books['The Hobbit'])
+print("The Alchemist by", books['The Alchemist'])
+print("Animal Farm by", books['Animal Farm'])
+print("The Catcher in the Rye by", books['The Catcher in the Rye'])
+
+Output:
+
+Books and authors:
+Harry Potter by J.K. Rowling
+The Hobbit by J.R.R. Tolkien
+The Alchemist by Paulo Coelho
+Animal Farm by George Orwell
+The Catcher in the Rye by J.D. Salinger
