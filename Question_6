@@ -1,0 +1,17 @@
+Input:
+#Task 6: Usernames and passwords
+users = {
+    'hassan786': 'mypass111',
+    'sara_khan': 'safe222',
+    'zain99': 'hello333',
+    'hira_ahmed': 'login444',
+    'bilal_shah': 'enter555'
+}
+users['sara_khan'] = 'newpass777'
+print("Updated users:")
+print(users)
+
+Output:
+
+Updated users:
+{'hassan786': 'mypass111', 'sara_khan': 'newpass777', 'zain99': 'hello333', 'hira_ahmed': 'login444', 'bilal_shah': 'enter555'}
