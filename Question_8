@@ -1,0 +1,17 @@
+Input:
+#Task 8: Apps and ratings
+apps = {
+    'YouTube': 4.7,
+    'Gmail': 4.4,
+    'Netflix': 4.5,
+    'Spotify': 4.6,
+    'Amazon': 4.3
+}
+if 'WhatsApp' in apps:
+    print("WhatsApp found")
+else:
+    print("WhatsApp not found")
+
+Output:
+
+WhatsApp not found 
