@@ -1,0 +1,17 @@
+Input:
+#Task 13: Meal items and calories
+meals = {
+    'Biryani': 600,
+    'Karahi': 550,
+    'Nihari': 750,
+    'Haleem': 480,
+    'Kebab': 420
+}
+meals["Pulao"] = 400
+print("All meals:")
+print(meals)
+
+Output:
+
+All meals:
+{'Biryani': 600, 'Karahi': 550, 'Nihari': 750, 'Haleem': 480, 'Kebab': 420, 'Pulao': 400}
