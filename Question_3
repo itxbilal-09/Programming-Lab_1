@@ -1,0 +1,24 @@
+Input:
+#Task 3: Movies and release years
+movies = {
+    'Titanic': 1997,
+    'Avatar': 2009,
+    'Interstellar': 2014,
+    'Gladiator': 2000,
+    'The Matrix': 1999
+}
+print("Movies and years:")
+print("Titanic:", movies['Titanic'])
+print("Avatar:", movies['Avatar'])
+print("Interstellar:", movies['Interstellar'])
+print("Gladiator:", movies['Gladiator'])
+print("The Matrix:", movies['The Matrix'])
+
+Output:
+
+Movies and years:
+Titanic: 1997
+Avatar: 2009
+Interstellar: 2014
+Gladiator: 2000
+The Matrix: 1999
