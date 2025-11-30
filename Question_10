@@ -1,0 +1,24 @@
+Input:
+#Task 10: Players and scores
+players = {
+    'Babar': 7200,
+    'Rizwan': 6800,
+    'Shaheen': 4500,
+    'Shadab': 5900,
+    'Haris': 3200
+}
+print("Player scores:")
+print("Babar:", players['Babar'])
+print("Rizwan:", players['Rizwan'])
+print("Shaheen:", players['Shaheen'])
+print("Shadab:", players['Shadab'])
+print("Haris:", players['Haris'])
+
+Output:
+
+Player scores:
+Babar: 7200
+Rizwan: 6800
+Shaheen: 4500
+Shadab: 5900
+Haris: 3200
