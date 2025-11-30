@@ -1,0 +1,19 @@
+Input:
+#Task 2: Employees and salary
+employees = {
+    'Ahmed': 45000,
+    'Fatima': 60000,
+    'Ali': 52000
+}
+print("Before change:")
+print(employees)
+employees['Fatima'] = 68000
+print("After change:")
+print(employees)
+
+Output:
+
+Before change:
+{'Ahmed': 45000, 'Fatima': 60000, 'Ali': 52000}
+After change:
+{'Ahmed': 45000, 'Fatima': 68000, 'Ali': 52000}
