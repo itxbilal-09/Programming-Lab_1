@@ -1,0 +1,24 @@
+Input:
+#Task 20: Songs and durations
+songs = {
+    "Dil Dil Pakistan": "4:30",
+    "Sayonee": "5:20",
+    "Aadat": "4:45",
+    "Tajdar-e-Haram": "6:15",
+    "Afreen Afreen": "7:10"
+}
+print("Song durations:")
+print("Dil Dil Pakistan:", songs["Dil Dil Pakistan"])
+print("Sayonee:", songs["Sayonee"])
+print("Aadat:", songs["Aadat"])
+print("Tajdar-e-Haram:", songs["Tajdar-e-Haram"])
+print("Afreen Afreen:", songs["Afreen Afreen"])
+
+Output:
+
+Song durations:
+Dil Dil Pakistan: 4:30
+Sayonee: 5:20
+Aadat: 4:45
+Tajdar-e-Haram: 6:15
+Afreen Afreen: 7:10
