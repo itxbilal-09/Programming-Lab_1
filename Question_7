@@ -1,0 +1,17 @@
+Input:
+#Task 7: Fruits and prices
+fruits = {
+    'Watermelon': 60,
+    'Pomegranate': 180,
+    'Papaya': 90,
+    'Pineapple': 140,
+    'Guava': 70
+}
+fruits['Kiwi'] = 250
+print("All fruits:")
+print(fruits)
+
+Output:
+
+All fruits:
+{'Watermelon': 60, 'Pomegranate': 180, 'Papaya': 90, 'Pineapple': 140, 'Guava': 70, 'Kiwi': 250}
