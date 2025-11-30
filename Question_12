@@ -1,0 +1,17 @@
+Input:
+#Task 12: Cars and companies
+cars = {
+    "Accord": "Honda",
+    "Altima": "Nissan",
+    "Camry": "Toyota",
+    "Elantra": "Hyundai",
+    "Jetta": "Volkswagen"
+}
+cars["Altima"] = "Nissan Motors"
+print("Updated cars:")
+print(cars)
+
+Output:
+
+Updated cars:
+{'Accord': 'Honda', 'Altima': 'Nissan Motors', 'Camry': 'Toyota', 'Elantra': 'Hyundai', 'Jetta': 'Volkswagen'}
