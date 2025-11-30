@@ -1,0 +1,17 @@
+Input:
+#Task 19: Actors and number of movies
+actors = {
+    "Fawad Khan": 25,
+    "Mahira Khan": 18,
+    "Humayun Saeed": 40,
+    "Mehwish Hayat": 22,
+    "Fahad Mustafa": 30
+}
+actors['Hamza Ali Abbasi'] = 20
+print("All actors:")
+print(actors)
+
+Output:
+
+All actors:
+{'Fawad Khan': 25, 'Mahira Khan': 18, 'Humayun Saeed': 40, 'Mehwish Hayat': 22, 'Fahad Mustafa': 30, 'Hamza Ali Abbasi': 20}
