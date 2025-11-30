@@ -1,0 +1,15 @@
+Input:
+#Task 17: Planets and distance from Sun
+planets = {
+    'Saturn': '1.43 billion km',
+    'Uranus': '2.87 billion km',
+    'Neptune': '4.50 billion km',
+    'Pluto': '5.91 billion km',
+    'Ceres': '413.7 million km'
+}
+print("Planet distances:")
+print("Saturn:", planets['Saturn'])
+print("Uranus:", planets['Uranus'])
+print("Neptune:", planets['Neptune'])
+print("Pluto:", planets['Pluto'])
+print("Ceres:", planets['Ceres'])
