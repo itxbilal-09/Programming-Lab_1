@@ -1,0 +1,17 @@
+Input:
+#Task 16: Sports and number of players
+sports = {
+    'Rugby': 15,
+    'Tennis': 2,
+    'Baseball': 9,
+    'Badminton': 2,
+    'Polo': 4
+}
+sports['Tennis'] = 4
+print("Updated sports:")
+print(sports)
+
+Output:
+
+Updated sports:
+{'Rugby': 15, 'Tennis': 4, 'Baseball': 9, 'Badminton': 2, 'Polo': 4}
