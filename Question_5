@@ -1,0 +1,24 @@
+Input:
+#Task 5: Animals and sounds
+animals = {
+    'Horse': 'Neigh',
+    'Sheep': 'Baa',
+    'Pig': 'Oink',
+    'Elephant': 'Trumpet',
+    'Frog': 'Croak'
+}
+print("Animals and sounds:")
+print("Horse:", animals['Horse'])
+print("Sheep:", animals['Sheep'])
+print("Pig:", animals['Pig'])
+print("Elephant:", animals['Elephant'])
+print("Frog:", animals['Frog'])
+
+Output:
+
+Animals and sounds:
+Horse: Neigh
+Sheep: Baa
+Pig: Oink
+Elephant: Trumpet
+Frog: Croak
