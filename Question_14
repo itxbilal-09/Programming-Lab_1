@@ -1,0 +1,17 @@
+Input:
+#Task 14: Countries and currencies
+countries = {
+    "China": "Yuan",
+    "Russia": "Ruble",
+    "Brazil": "Real",
+    "Mexico": "Peso",
+    "Egypt": "Pound"
+}
+if "India" in countries:
+    print("India is included")
+else:
+    print("India is not included")
+
+Output:
+
+India is not included
